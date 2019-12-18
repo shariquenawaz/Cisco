@@ -2,17 +2,8 @@ names=['Yuqing','Guru', 'Bhupinder','Ankit','Shikha','Joe','Tshuma','Grace','Joh
 exp=[1,2,13,1,4,10,1,11,10]
 
 ##### Job application Use case #####
+Email = [chaslu@cisco.com,vmutapov@cisco.com,gurswami@cisco.com,bhsethi@cisco.com,shising2@cisco.com,
+joeunder@cisco.com,jezhou@cisco.com,ntshuma@cisco.com,minhda@cisco.com,gufang@cisco.com,zmeng@cisco.com]
 
+Openings_tech=[security,voice,vm,linux,sp]
 
-chaslu@cisco.com
-vmutapov@cisco.com
-gurswami@cisco.com 
-bhsethi@cisco.com
-ankisha6@cisco.com 
-shising2@cisco.com
-joeunder@cisco.com 
-jezhou@cisco.com
-ntshuma@cisco.com
-minhda@cisco.com
-gufang@cisco.com
-zmeng@cisco.com
